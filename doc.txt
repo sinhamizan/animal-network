@@ -1,0 +1,3 @@
+Need configure below files:
+1. php > php.ini file
+2. sendMailer > sendmailer.ini file
